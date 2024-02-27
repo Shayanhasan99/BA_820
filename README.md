@@ -1,7 +1,7 @@
 # BA_820
-Group Project for Unsupervised Learning
+### Group Project for Unsupervised Learning
 
-Project by 
+**Contributors:**
 
 Muhammad Shayan Hasan Irfan Khan
 
